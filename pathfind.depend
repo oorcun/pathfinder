@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1404307356 source:e:\c++\benim yaptýðým\pathfind\main.cpp
+	"all.h"
+
+1404136542 e:\c++\benim yaptýðým\pathfind\all.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+	"constant.h"
+	"cursor.h"
+	"misc.h"
+	"graphics.h"
+	"console.h"
+	"text.h"
+	"file.h"
+	"algrithm.h"
+
+1404307395 e:\c++\benim yaptýðým\pathfind\constant.h
+
+1404302218 e:\c++\benim yaptýðým\pathfind\cursor.h
+
+1404030606 e:\c++\benim yaptýðým\pathfind\misc.h
+
+1404219189 e:\c++\benim yaptýðým\pathfind\graphics.h
+
+1403767454 e:\c++\benim yaptýðým\pathfind\console.h
+
+1403855036 e:\c++\benim yaptýðým\pathfind\text.h
+
+1404293656 e:\c++\benim yaptýðým\pathfind\file.h
+
+1404309419 e:\c++\benim yaptýðým\pathfind\algrithm.h
+
